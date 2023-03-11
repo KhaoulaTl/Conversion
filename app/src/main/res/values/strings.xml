@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Login ( tp2 )</string>
+    <string name="conversion_de_monnaie">Conversion de Monnaie</string>
+    <string name="_0_00">0.00</string>
+    <string name="euro_dinar_tunisian"><![CDATA[Euro => Dinar Tunisian]]></string>
+    <string name="dinar_tunisian_euro"><![CDATA[Dinar Tunisian => Euro]]></string>
+    <string name="convertir">Convertir...</string>
+    <string name="todo">TODO</string>
+    <string name="c_o_n_v_e_r_s_i_o_n_d_e_m_o_n_n_a_i_e">C o n v e r s i o n D e M o n n a i e</string>
+    <string name="résultat">Résultat...</string>
+    <string name="Montant">Montant</string>
+    <string name="montant">Montant</string>
+    <string name="eur_tnd"><![CDATA[EUR ---> TND]]></string>
+    <string name="tnd_eur"><![CDATA[TND ---> EUR]]></string>
+    <string name="convertir1">Convertir</string>
+    <string name="rising">Rising</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result</string>
+    <string name="log_out">Log Out</string>
+    <string name="Rising">Rising</string>
+    <string name="Convert">Convert</string>
+    <string name="Result">Result</string>
+    <string name="Log_Out">Log Out</string>
+    <string name="temperature">Temperature</string>
+    <string name="c_f"><![CDATA[C ---> F]]></string>
+    <string name="f_c"><![CDATA[F ---> C]]></string>
+    <string name="m1"><![CDATA[Conversion EURO ---> Dinar]]></string>
+</resources>
